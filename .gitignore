@@ -9,6 +9,8 @@
 !/libs/chatchat-server/chatchat/data/nltk_data
 config/
 .vscode/
+chatai.env
+libs/chatchat-server/nohup.out
 
 # below are standard python ignore files
 # Byte-compiled / optimized / DLL files
